@@ -8,18 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/mozamil" target="blank"><img src="https://img.shields.io/twitter/follow/mozamil?logo=twitter&style=for-the-badge" alt="mozamil" /></a> </p>
 
-- 🔭 I’m currently working on [anythink](ggjg.io)
-
-- 🌱 I’m currently learning **python**
-
-- 👯 I’m looking to collaborate on [gh](fcc.io)
-
-- 🤝 I’m looking for help with [anythink](ff.io)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **mozamil3333gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mozamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mozamil" height="30" width="40" /></a>
